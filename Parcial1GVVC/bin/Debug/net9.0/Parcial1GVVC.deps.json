@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Parcial1GVVC/1.0.0": {
+        "dependencies": {
+          "Parcial1Lib": "1.0.0"
+        },
+        "runtime": {
+          "Parcial1GVVC.dll": {}
+        }
+      },
+      "Parcial1Lib/1.0.0": {
+        "runtime": {
+          "Parcial1Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial1GVVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parcial1Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

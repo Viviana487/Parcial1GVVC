@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Parcial1GVVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480B66DD-A729-4C4D-991A-14C3411593B9}|Parcial1Test\\Parcial1Test.csproj|c:\\users\\asus\\desktop\\parcial1gvvc\\parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480B66DD-A729-4C4D-991A-14C3411593B9}|Parcial1Test\\Parcial1Test.csproj|solutionrelative:parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A91854E-6EFD-4282-B867-4EE0435FA54E}|Parcial1GVVC\\Parcial1GVVC.csproj|c:\\users\\asus\\desktop\\parcial1gvvc\\parcial1gvvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A91854E-6EFD-4282-B867-4EE0435FA54E}|Parcial1GVVC\\Parcial1GVVC.csproj|solutionrelative:parcial1gvvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A3ECF-0C98-4809-B729-D36AB65BEDC7}|Parcial1Lib\\Parcial1Lib.csproj|c:\\users\\asus\\desktop\\parcial1gvvc\\parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54A3ECF-0C98-4809-B729-D36AB65BEDC7}|Parcial1Lib\\Parcial1Lib.csproj|solutionrelative:parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestUnitTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Parcial1GVVC\\Parcial1Test\\TestUnitTriangulo.cs",
+              "RelativeDocumentMoniker": "Parcial1Test\\TestUnitTriangulo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Parcial1GVVC\\Parcial1Test\\TestUnitTriangulo.cs",
+              "RelativeToolTip": "Parcial1Test\\TestUnitTriangulo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:06:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Parcial1GVVC\\Parcial1Lib\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "Parcial1Lib\\FiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Parcial1GVVC\\Parcial1Lib\\FiguraGeometrica.cs",
+              "RelativeToolTip": "Parcial1Lib\\FiguraGeometrica.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwC8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:59:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Parcial1GVVC\\Parcial1GVVC\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial1GVVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Parcial1GVVC\\Parcial1GVVC\\Program.cs",
+              "RelativeToolTip": "Parcial1GVVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:58:55.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
