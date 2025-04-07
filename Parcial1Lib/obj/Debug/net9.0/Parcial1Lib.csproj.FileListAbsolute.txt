@@ -9,3 +9,15 @@ C:\Users\ASUS\Desktop\Parcial1GVVC\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.dll
 C:\Users\ASUS\Desktop\Parcial1GVVC\Parcial1Lib\obj\Debug\net9.0\refint\Parcial1Lib.dll
 C:\Users\ASUS\Desktop\Parcial1GVVC\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.pdb
 C:\Users\ASUS\Desktop\Parcial1GVVC\Parcial1Lib\obj\Debug\net9.0\ref\Parcial1Lib.dll
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.deps.json
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.dll
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.pdb
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.sourcelink.json
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.dll
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\refint\Parcial1Lib.dll
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.pdb
+C:\Users\ASUS\Desktop\Parcial1VCGV\Parcial1Lib\obj\Debug\net9.0\ref\Parcial1Lib.dll
